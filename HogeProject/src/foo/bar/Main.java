@@ -16,6 +16,7 @@ public class Main {
 
 		System.out.println("commit in devel after master");
 		
+		System.out.println("commit in devel fugafuga");
 		
 		System.out.println("commit in devel");
 
